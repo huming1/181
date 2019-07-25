@@ -6,4 +6,5 @@ this is four
 this is five
 this is six
 this is seven
-this is eigit
+this is eight
+this is nine
